@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div className='container'>
-      <div className='d-flex justify-content-center m-5 text-'>
+      <div className='d-flex justify-content-center m-3 text-' data-aos="fade-up">
         <h1><b>Todo List</b></h1>
       </div>
       <div className='text-center'>

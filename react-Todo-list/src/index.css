@@ -3,7 +3,7 @@
 body {
     background: rgb(34,193,195);
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(230,220,198,1) 100%);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     height: 100vh;
 }
 .addtask:hover {
@@ -22,8 +22,8 @@ body {
     background-color: rgb(241, 64, 64);
 }
 .list {
-    font-size: 25px;
+    font-size: 20px;
 }
-.card {
-  width: 18rem;
+.content {
+    width: 400px;
 }
