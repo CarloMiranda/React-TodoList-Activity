@@ -1,0 +1,23 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+body {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(230,220,198,1) 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.addtask:hover {
+    background-color: rgba(0, 81, 255, 0.815);
+}
+.completed {
+    background-color: transparent;
+}
+.delete {
+    background-color: transparent;
+}
+.completed:hover {
+    background-color: rgb(42, 187, 42);
+}
+.delete:hover {
+    background-color: rgb(241, 64, 64);
+}
