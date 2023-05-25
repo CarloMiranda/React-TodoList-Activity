@@ -21,3 +21,9 @@ body {
 .delete:hover {
     background-color: rgb(241, 64, 64);
 }
+.list {
+    font-size: 25px;
+}
+.card {
+  width: 18rem;
+}
